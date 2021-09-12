@@ -10,8 +10,6 @@ This is the repository for assignment 2. It contains the following files:
 * `Project.toml` packages for the Julia environment.
 * `A2_src.jl` Julia code providing useful functions.
 * `A2_starter.jl` starter code for assignment in Julia.
-* `autograd_starter.py` some starter if you would like to use Python with autograd.
-* `plots/` directory to store your plots.
 * `tennis_data.mat` dataset containing outcomes of tennis games.
 
 ## Submitting with Github Classroom
